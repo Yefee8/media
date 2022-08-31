@@ -4,7 +4,7 @@ import RightPart from "./rightPart";
 
 export default function Body() {
     return (
-        <div className="lg:mt-28 mt-36 flex lg:flex-row flex-col lg:justify-between justify-center items-start font-regular">
+        <div className="lg:pt-28 pt-36 lg:px-20 flex lg:w-auto w-screen lg:flex-row flex-col lg:justify-between justify-center items-center font-regular">
             <LeftPart />
 
             <RightPart />

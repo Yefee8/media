@@ -7,8 +7,9 @@ module.exports = {
         colors: {
             transparent: 'transparent',
             white: '#fff',
-            primary: '#764af1',
-            dark: '#2a2a2a'
+            primary: '#764AF1',
+            dark: '#1F2D40',
+            headerdark: '#17212F'
         },
         fontFamily:{
             primary:'Montserrat'

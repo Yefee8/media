@@ -1,6 +1,6 @@
 export default function rightPart() {
     return (
-        <div className="flex flex-col items-center justify-center w-screen lg:w-auto lg:mr-28 mt-28 lg:mt-0 flex w-auto h-auto relative mr-0">
+        <div className="flex flex-col items-center justify-center pt-32 lg:pt-0 w-screen lg:w-auto lg:mr-28 h-auto relative">
             <img
                 className="rounded-3xl lg:w-[363px] w-[200px] border-[3px] transition duration-300 hover:rotate-[0deg] translate-y-0
                 hover:translate-y-[-50px] rotate-[15deg] border-primary"
