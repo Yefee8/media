@@ -10,7 +10,7 @@ export default function LeftPart() {
             <div className="lg:mt-8 mt-16 flex gap-x-8">
                 <Button>Log in</Button>
 
-                <Button>Sign in</Button>
+                <Button>Sign up</Button>
             </div>
         </div>
     )
