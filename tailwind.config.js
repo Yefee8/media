@@ -10,9 +10,6 @@ module.exports = {
             primary: '#764AF1',
             dark: '#1F2D40',
             headerdark: '#17212F'
-        },
-        fontFamily:{
-            primary:'Montserrat'
         }
     },
 }
